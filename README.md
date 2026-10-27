@@ -10,7 +10,7 @@ HRA (20% of Basic Salary)
 DA (10% of Basic Salary)
 Net Salary
 Store employee data in a file
-Read and display employee records from file
+Read and display emp records from file
 Search employee by ID
 Uses constructors and method overloading
 Menu-driven console program
