@@ -1,5 +1,5 @@
 # Java-assignment-
-It is designed to manage employee details and calculate salary components such as HRA (20%) and DA (10%).
+It is designed to manage emp details and calculate salary components such as HRA (20%) and DA (10%).
 The system automatically calculates the Net Salary of each employee.
 Employee records are stored in a file for permanent storage.
 The system also allows searching employees using their Employee ID.
